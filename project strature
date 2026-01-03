@@ -1,0 +1,20 @@
+sroriented-crm-app/
+│
+├── backend/
+│   ├── server.js
+│   ├── config/db.js
+│   ├── models/User.js
+│   ├── models/Lead.js
+│   ├── routes/auth.js
+│   ├── routes/leads.js
+│   └── middleware/auth.js
+│
+├── frontend/
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── Login.js
+│   │   ├── Dashboard.js
+│   │   └── api.js
+│   └── package.json
+│
+└── README.md
